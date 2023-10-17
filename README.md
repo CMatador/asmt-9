@@ -1,4 +1,4 @@
-# Machine Learning Dev10 Assessment
+# XGBoost Primer and Demo
 
 ### Contents
 1. [Presentation](https://github.com/CMatador/asmt-9/blob/master/Presentation.pdf) covering basics of XGBoost including:
